@@ -1,0 +1,19 @@
+ARBOLES
+Un arbol es una estructura de datos que consiste en nodos y aristas que organizan informacion con relacion gerarquica.
+La organizacion entre los elementos en un arbol, es similas a un arbol genialogico comun, donde existen relaciones tipo, padre, hijo, pariente, etc.
+Los datos son almacenados en nodos y grupos de nodos que estan ligados entre si por una arista, que representan la relacion parental, entre ellos. El 
+elemento base es conocido como raiz(root) la siguiente imagen representa un arbol general.
+
+TERMINOLOGIA DE ARBOLES EN GENERAL
+NODO.-Cada elemento del arbol.
+NODO RAIZ.-Es aquel nodo en el primer nivel del arbol que es usado como el punto de acceso a toda la estructura. Solo un elemento puede ser raiz.
+NODO PADRE.-Es aquel nodo que tiene al menos un nodo en su arbol izquierdo y/o derecho.
+NODO HIJOS.-Son aquellos nodos que estan unido a un nodo de un nivel previo 
+NODO HERMANO.-Son aquelos nodos que estan unidos al mismo nodo padre
+NODOS INTERIORES.-Son todos aquellos nodos que almenos tienen un hijo y no son la raiz 
+NODO HOJA.-Son aquellos nodos que no tienen hijos pero si tienen padre.
+SUB ARBOL.-Es aquel arbol generado apartir  de los nodos descendentes. 
+GRADO DE UN ARBOL.-Es el numero maximo de hijos que puede tener un nodo dentro del arbol.
+DEFINICION FORMAL DE UN ARBOL.-Un arbol es un conjunto de nodos que està vacio o que tiene un nodo llamado raiz que esta conectado por aristas a cero
+o mas subarboles para formar una estructura gerarquica, cada subarbol es en su mismo un arbol por definicion.
+
