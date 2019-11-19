@@ -1,0 +1,4 @@
+ARBOLES BINARIOS DE BUSQUEDA (ABB Ò BST)
+A diferencias de los arboles mencionados anteriormente, los ABB tienen una logica especifica de organizacion para los nodos. Esta logica esta basada en
+que dado un nodo, todos los nodos del subarbol izquierdo son de menor valor y que todo los nodos del subarbol derecho son de un valor mayor al nodo en
+cuestion. Esto perimite que la busqueda sobre un ABB sea rápida.
